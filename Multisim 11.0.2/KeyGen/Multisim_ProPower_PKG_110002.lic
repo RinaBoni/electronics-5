@@ -1,0 +1,11 @@
+SERVER THIS_HOST ANY 27000
+VENDOR nilm
+PACKAGE Multisim_ProPower_PKG nilm 11.0002 COMPONENTS="Multisim_Core \
+	Multisim_ProPower Multisim_MCUModule:11.0002" \
+	SIGN=B00B549820BE
+INCREMENT Multisim_ProPower_PKG nilm 11.0002 permanent uncounted \
+	VENDOR_STRING=F4CG HOSTID=DISK_SERIAL_NUM=aa7b2596 \
+	vendor_info="TYPE=Application \
+	URL=http://digital.ni.com/express.nsf/bycode/exfgdq \
+	LABEL=Power Pro Edition FAMILY=Multisim_Family_110002" TS_OK \
+	SIGN=A5147856CF08

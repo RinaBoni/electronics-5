@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?><FCIV>
+<FILE_ENTRY><name>nidist.id</name><MD5>K8X0qqG9dDUewCWFg8O23Q==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>patents.txt</name><MD5>50mYRDm3BF/RjU4NQhZmdg==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>setup.exe</name><MD5>beh9Z8n573cbvapZZTOP9Q==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>setup.ini</name><MD5>g+xB42ZrH5dUnnYJokDI8A==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Bin\data0007.dll</name><MD5>4zUKgvWbTAAddtx7ztq0QQ==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Bin\data0009.dll</name><MD5>r7u05J9vIuRnsDOgU4GYBQ==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Bin\data0012.dll</name><MD5>ornhvJ+rRyDq9yCN+RtUJQ==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Bin\data0017.dll</name><MD5>A71BInFoyQ+wudswUP3yKA==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Bin\data0018.dll</name><MD5>WA14ISb+dqX/fFDKCkOWnw==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Bin\data2052.dll</name><MD5>DUUNDsYLnhb/3UWsMjC2TQ==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Bin\merged.cab</name><MD5>VBSB1CQQ6mImQ7nQWQhmGA==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Bin\merged0007.mst</name><MD5>Un/ry5vUmZDRa51XbN9Hvw==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Bin\merged0012.mst</name><MD5>YVxKY7tXjVCMJhT8rHkG4w==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Bin\merged0017.mst</name><MD5>2d//UoypsW2/lAgSuhKQgg==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Bin\merged0018.mst</name><MD5>Ug5KgEyS/C1ONpnV3++Oww==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Bin\merged2052.mst</name><MD5>4OfmjvU9uIalPmLo/8bO+Q==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Bin\MIFSystemUtility.dll</name><MD5>rRnt3SGSb5kQL9RWzXKWCw==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Bin\niPie.exe</name><MD5>l6+s7S3/GwSHNjzPH7S/4Q==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Bin\nires0007.dll</name><MD5>250ngMKQu+1TXVah+swyuQ==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Bin\nires0012.dll</name><MD5>IKhvkNuOqtSJPxDSVR7xBQ==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Bin\nires0017.dll</name><MD5>mkMbAKskaCeJ3AQEUDVUXQ==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Bin\nires0018.dll</name><MD5>YnaMgjCVDvs88meKQf2nfg==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Bin\nires2052.dll</name><MD5>y3ImLcUxr0REsNhn9WQUKQ==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Bin\nistdtrans0007.mst</name><MD5>BLecRf8G+Mdqnfo+VShUUA==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Bin\nistdtrans0012.mst</name><MD5>Mfj+lYsUcX2+yX4JXzkzZg==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Bin\nistdtrans0017.mst</name><MD5>Vw24/QUC/6Bn9iXNGEDO3g==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Bin\nistdtrans0018.mst</name><MD5>pG5wHY3ZNxzVWwwO60mqOQ==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Bin\nistdtrans2052.mst</name><MD5>9v9YX5XgBlVhF9efb64iwA==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Bin\nistdtransbase.mst</name><MD5>OhJ+0uzo7NwrPWah0JF1Rg==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Bin\notify.dll</name><MD5>yI7+aBkwzGGDETn4kXo4HQ==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Bin\notifyupdates.dll</name><MD5>CqbqQ4Ha/5hDwyngdbfKyA==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Bin\updateInfo.xml</name><MD5>HjxYbha54U4in4pPzNzbpg==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Bin\WindowsInstaller-KB893803-v2-x86.exe</name><MD5>NC95M3dldgrU45LrZ9XtLA==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Licenses\NI Released License Agreement - English.rtf</name><MD5>geiAHRSwP45HDbnITc0v7A==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Licenses\NI Released License Agreement - French.rtf</name><MD5>FPlML4kM7babuQGpdYtH0g==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Licenses\NI Released License Agreement - German.rtf</name><MD5>EeRnOJ06apkQZBKhK1Ssiw==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Licenses\NI Released License Agreement - Italian.rtf</name><MD5>rRM4iOQSEDz4CYdOqk7UUA==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Licenses\NI Released License Agreement - Japanese.rtf</name><MD5>BG2o0G84EU1uhpaVDSbsDw==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Licenses\NI Released License Agreement - Korean.rtf</name><MD5>24rEWwCj0el0OLQ65pm+xg==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Licenses\NI Released License Agreement - Simplified Chinese.rtf</name><MD5>hlCLbQQbAzWUyL8AGoscSQ==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Licenses\NI Released License Agreement - Spanish.rtf</name><MD5>FbD9Vc77BNXjUzsE12yByg==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Licenses\XercesLicense.txt</name><MD5>0nPWNhnJrq8Vza92QixPhw==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Licenses\XercesNotice.txt</name><MD5>c2qn90cIPNAdsZDRlQuZmA==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\CVIRTEUpdated\CVI_RTEUpdated.msi</name><MD5>8XgaXGzF6MMQZeRM8On0PA==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\CVIRTEUpdated\CVI_RTEUpdated_mft.cab</name><MD5>l8kU9VjtFIrPeqWzxqxuSg==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\CVIRTEUpdated\rte32u.cab</name><MD5>wcUteqPeYQZV9y51mw356g==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\CVI_LowLevelDriver\CVI_LowLevelDriverOriginal.msi</name><MD5>dNbRcfp9LXsJh9AnRyHX0A==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\CVI_LowLevelDriver\CVI_LowLevelDriverOriginal_mft.cab</name><MD5>UmvHK6tEcqEd+htmL+xjqw==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\CVI_LowLevelDriver\CVI_LowLevelDriverUpdated.msi</name><MD5>3wgK/UlhWHrAKbRMCxUC5g==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\CVI_LowLevelDriver\lldrvo.cab</name><MD5>YIr2BR79K6uyw4M4NXaseA==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\CVI_LowLevelDriver\lldrvu.cab</name><MD5>9oXeikVKt6t4o6YlgrdkSA==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\MDF\MDF\EULADepo.cab</name><MD5>IJOh+AtOCcTpN/pMxmBdbQ==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\MDF\MDF\EULADepot.msi</name><MD5>+AK6CBu+cnb3Z1QzQuDZqA==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\MDF\MDF\MDFSupport.msi</name><MD5>dRmtidwq3YmbkVL+GxhUrA==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\MDF\MDF\MDFSupport1.cab</name><MD5>We1vemmm3kBjfiDgMazs5Q==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\MDF\MDF\MDFSupport_mft.cab</name><MD5>LE9Upg8Fh2mmkYh69dxsjw==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\MetaUninstaller\MU\MetaUninstaller.msi</name><MD5>Ylrw4CItxa8s9GFIHP5ECQ==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\MetaUninstaller\MU\MetaUninstallerR1.cab</name><MD5>p7omXJH7VN/2d1h7JQs3oA==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\MetaUninstaller\MU\MetaUninstaller_mft.cab</name><MD5>SQn6mi7IZI6qL0AAwxpFmw==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\SecurityUpdate_KB5Q5FJ4QW_CVI\SecurityUpdate_KB5Q5FJ4QW_CVI.msi</name><MD5>EQ6K+5MAYiOdRxyM28R/MA==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\SecurityUpdate_KB5Q5FJ4QW_CVI\SecurityUpdate_KB5Q5FJ4QW_CVI_mft.cab</name><MD5>Ve4tGCiFx/WpTxEu5SoQBg==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\SecurityUpdate_KB5Q5FJ4QW_CVI\sucvi.cab</name><MD5>zQL+s3eXRHX1W+ZukDBfOg==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\SecurityUpdate_KB5Q5FJ4QW_LV2009\SecurityUpdate_KB5Q5FJ4QW_LV2009.msi</name><MD5>sYS9UW26fldTPZ/SoXKlUA==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\SecurityUpdate_KB5Q5FJ4QW_LV2009\SecurityUpdate_KB5Q5FJ4QW_LV2009_mft.cab</name><MD5>jgs6544ha/I05IwtIMS8gw==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\SecurityUpdate_KB5Q5FJ4QW_LV2009\sulv2009.cab</name><MD5>hwhpnSxzvtMKCgjYD5bW1w==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\SecurityUpdate_KB5Q5FJ4QW_LV2010\SecurityUpdate_KB5Q5FJ4QW_LV2010.msi</name><MD5>vX8XjJjgv4OBQteNAJ/POg==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\SecurityUpdate_KB5Q5FJ4QW_LV2010\SecurityUpdate_KB5Q5FJ4QW_LV2010_mft.cab</name><MD5>CQB1klQ5BWIAQfXy9BuFfA==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\SecurityUpdate_KB5Q5FJ4QW_LV2010\sulv2010.cab</name><MD5>hwhpnSxzvtMKCgjYD5bW1w==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\SecurityUpdate_KB5Q5FJ4QW_LV2011\SecurityUpdate_KB5Q5FJ4QW_LV2011.msi</name><MD5>lnIkABxSn7Iss8nbZeDYVQ==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\SecurityUpdate_KB5Q5FJ4QW_LV2011\SecurityUpdate_KB5Q5FJ4QW_LV2011_mft.cab</name><MD5>YGFrPT+lmExPeCZ6Q6AL9w==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\SecurityUpdate_KB5Q5FJ4QW_LV2011\sulv2011.cab</name><MD5>hwhpnSxzvtMKCgjYD5bW1w==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\SecurityUpdate_KB5Q5FJ4QW_LV80Prior\SecurityUpdate_KB5Q5FJ4QW_LV80Prior.msi</name><MD5>S++OZTM7Nmk/iuYuVy1sEQ==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\SecurityUpdate_KB5Q5FJ4QW_LV80Prior\SecurityUpdate_KB5Q5FJ4QW_LV80Prior_mft.cab</name><MD5>BSrOwPkZh0xRTPxLaCpsOg==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\SecurityUpdate_KB5Q5FJ4QW_LV80Prior\sulv80p.cab</name><MD5>hwhpnSxzvtMKCgjYD5bW1w==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\SecurityUpdate_KB5Q5FJ4QW_LV82\SecurityUpdate_KB5Q5FJ4QW_LV82.msi</name><MD5>5oXBLSUUR02Zn0AYBJvzgQ==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\SecurityUpdate_KB5Q5FJ4QW_LV82\SecurityUpdate_KB5Q5FJ4QW_LV82_mft.cab</name><MD5>E5mbhnHdbGROLjXzjwC7Yg==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\SecurityUpdate_KB5Q5FJ4QW_LV82\sulv82.cab</name><MD5>hwhpnSxzvtMKCgjYD5bW1w==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\SecurityUpdate_KB5Q5FJ4QW_LV85\SecurityUpdate_KB5Q5FJ4QW_LV85.msi</name><MD5>kMn3OJeAbdCkn3gqn5/rTQ==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\SecurityUpdate_KB5Q5FJ4QW_LV85\SecurityUpdate_KB5Q5FJ4QW_LV85_mft.cab</name><MD5>DJRIDX62c5Cwlnzeysp9iA==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\SecurityUpdate_KB5Q5FJ4QW_LV85\sulv85.cab</name><MD5>hwhpnSxzvtMKCgjYD5bW1w==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\SecurityUpdate_KB5Q5FJ4QW_LV86\SecurityUpdate_KB5Q5FJ4QW_LV86.msi</name><MD5>nR3DIrGEBhfwpivjX3Jg7A==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\SecurityUpdate_KB5Q5FJ4QW_LV86\SecurityUpdate_KB5Q5FJ4QW_LV86_mft.cab</name><MD5>fU7LlXBXlfecmV7byL1OrA==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\SecurityUpdate_KB5Q5FJ4QW_LV86\sulv86.cab</name><MD5>hwhpnSxzvtMKCgjYD5bW1w==</MD5></FILE_ENTRY>
+</FCIV>

@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?><FCIV>
+<FILE_ENTRY><name>nidist.id</name><MD5>V3DErkIoovgJHuCoG+c+Xw==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>patents.txt</name><MD5>50mYRDm3BF/RjU4NQhZmdg==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>setup.exe</name><MD5>beh9Z8n573cbvapZZTOP9Q==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>setup.ini</name><MD5>1LskJ9frmybbUDb0u55Olg==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Bin\data0007.dll</name><MD5>0S9yNloNcA4jJAK75PBSxg==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Bin\data0009.dll</name><MD5>KhvBmHDT2PFXVADYocuHyQ==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Bin\data0012.dll</name><MD5>1hR01+AF4JRMHexy4xshRw==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Bin\data0017.dll</name><MD5>s6uBOmgCk3bcWPTjWtkwKA==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Bin\data0018.dll</name><MD5>JGuClsjRDlRebpdZsA7/ng==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Bin\data2052.dll</name><MD5>diCFcBvnNrq6IQb4GVIUsg==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Bin\merged.cab</name><MD5>wS9JIn4jgegZ7JR2aivvNQ==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Bin\merged0007.mst</name><MD5>FTLWKosGoBRaI7FTtH1Tnw==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Bin\merged0012.mst</name><MD5>gYZB8od0ao1uw3/kc8U8NA==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Bin\merged0017.mst</name><MD5>KaQNp36x5VdDWpqOZoUTTA==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Bin\merged0018.mst</name><MD5>pMlWsU8rKWi271GTUKAiYg==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Bin\merged2052.mst</name><MD5>+j0ecjjYaqzIbxff0Yz4DA==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Bin\MIFSystemUtility.dll</name><MD5>rRnt3SGSb5kQL9RWzXKWCw==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Bin\niPie.exe</name><MD5>l6+s7S3/GwSHNjzPH7S/4Q==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Bin\nires0007.dll</name><MD5>250ngMKQu+1TXVah+swyuQ==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Bin\nires0012.dll</name><MD5>IKhvkNuOqtSJPxDSVR7xBQ==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Bin\nires0017.dll</name><MD5>mkMbAKskaCeJ3AQEUDVUXQ==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Bin\nires0018.dll</name><MD5>YnaMgjCVDvs88meKQf2nfg==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Bin\nires2052.dll</name><MD5>y3ImLcUxr0REsNhn9WQUKQ==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Bin\nistdtrans0007.mst</name><MD5>BLecRf8G+Mdqnfo+VShUUA==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Bin\nistdtrans0012.mst</name><MD5>Mfj+lYsUcX2+yX4JXzkzZg==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Bin\nistdtrans0017.mst</name><MD5>Vw24/QUC/6Bn9iXNGEDO3g==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Bin\nistdtrans0018.mst</name><MD5>pG5wHY3ZNxzVWwwO60mqOQ==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Bin\nistdtrans2052.mst</name><MD5>9v9YX5XgBlVhF9efb64iwA==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Bin\nistdtransbase.mst</name><MD5>OhJ+0uzo7NwrPWah0JF1Rg==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Bin\notify.dll</name><MD5>yI7+aBkwzGGDETn4kXo4HQ==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Bin\notifyupdates.dll</name><MD5>CqbqQ4Ha/5hDwyngdbfKyA==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Bin\updateInfo.xml</name><MD5>oRqTTHmzaUmOGpo5CgIYqw==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Bin\WindowsInstaller-KB893803-v2-x86.exe</name><MD5>NC95M3dldgrU45LrZ9XtLA==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Licenses\Apache 2.0 License - English.pdf</name><MD5>7e4RClOSXb1hx4DMiW/u+Q==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Licenses\DotNet 2.0 License Agreement - English.rtf</name><MD5>Kll3Rp5YYKgunE7DytTRHg==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Licenses\NI Released License Agreement - English.rtf</name><MD5>geiAHRSwP45HDbnITc0v7A==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Licenses\NI Released License Agreement - French.rtf</name><MD5>FPlML4kM7babuQGpdYtH0g==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Licenses\NI Released License Agreement - German.rtf</name><MD5>EeRnOJ06apkQZBKhK1Ssiw==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Licenses\NI Released License Agreement - Italian.rtf</name><MD5>rRM4iOQSEDz4CYdOqk7UUA==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Licenses\NI Released License Agreement - Japanese.rtf</name><MD5>BG2o0G84EU1uhpaVDSbsDw==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Licenses\NI Released License Agreement - Korean.rtf</name><MD5>24rEWwCj0el0OLQ65pm+xg==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Licenses\NI Released License Agreement - Simplified Chinese.rtf</name><MD5>hlCLbQQbAzWUyL8AGoscSQ==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Licenses\NI Released License Agreement - Spanish.rtf</name><MD5>FbD9Vc77BNXjUzsE12yByg==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Licenses\Nini 1.0 License - English.pdf</name><MD5>nHvtm0A3AWf6eB8QvS6Fag==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Licenses\PDFSharp 1.0 License - English.pdf</name><MD5>BBDcTh5sJFah27jLHMIo4Q==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Licenses\TaskScheduler_license.pdf</name><MD5>Nb6gkic6dvgn1Kd+Vtv7fQ==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Licenses\XercesLicense.txt</name><MD5>0nPWNhnJrq8Vza92QixPhw==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Licenses\XercesNotice.txt</name><MD5>c2qn90cIPNAdsZDRlQuZmA==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\DotNet20_x86_Installer\DotNet20x86.msi</name><MD5>MY6WAvBdqcDEGqA2JZFHPw==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\DotNet20_x86_Installer\DotNet20x86_deu.mst</name><MD5>VeVmq94pzDLIRmVbT1OZXg==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\DotNet20_x86_Installer\DotNet20x86_jpn.mst</name><MD5>/ZMaXpKrkZyuLq6N2AFKGw==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\DotNet20_x86_Installer\FakeDotNet20x86.msi</name><MD5>AxvkFBdRMN/VNML3Ayi+Vg==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\DotNet20_x86_Installer\NetFx20SP1_x86.exe</name><MD5>xhER19YjBrmXzn3QSJixyg==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\HelpAsst\HelpAsst\HelpAsst.msi</name><MD5>f8nfcGOoZ2xYbJZejrgcNQ==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\HelpAsst\HelpAsst\HelpAsst64.msi</name><MD5>GXrxyULwtwE+agrqDuIJkQ==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\MDFSupport\MDF\EULADepo.cab</name><MD5>IJOh+AtOCcTpN/pMxmBdbQ==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\MDFSupport\MDF\EULADepot.msi</name><MD5>+AK6CBu+cnb3Z1QzQuDZqA==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\MDFSupport\MDF\MDFSupport.msi</name><MD5>dRmtidwq3YmbkVL+GxhUrA==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\MDFSupport\MDF\MDFSupport1.cab</name><MD5>We1vemmm3kBjfiDgMazs5Q==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\MDFSupport\MDF\MDFSupport_mft.cab</name><MD5>LE9Upg8Fh2mmkYh69dxsjw==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\MetaSuite\MetaSuite\media.cab</name><MD5>ZSIZSBNBRlv/hnAQC4OFxg==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\MetaSuite\MetaSuite\MetaSuitePart.msi</name><MD5>MG/KOgL845HjZktPR2/9Vg==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\MetaSuite\MetaSuite\MetaSuitePart_mft.cab</name><MD5>+Gx1cZOyDqz5VFjUK4h77Q==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\MetaUninstaller\MU\MetaUninstaller.msi</name><MD5>Ylrw4CItxa8s9GFIHP5ECQ==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\MetaUninstaller\MU\MetaUninstallerR1.cab</name><MD5>p7omXJH7VN/2d1h7JQs3oA==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\MetaUninstaller\MU\MetaUninstaller_mft.cab</name><MD5>SQn6mi7IZI6qL0AAwxpFmw==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\UpdateService\Updat00\Updat00.cab</name><MD5>auDwGqnOM8UhQcs3EQpS9w==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\UpdateService\Updat00\Updat00_chs.mst</name><MD5>xeVMLFxfDa2FzNaO4CgosQ==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\UpdateService\Updat00\Updat00_deu.mst</name><MD5>qT5G8ZvyM3l5pngh8ZNQGw==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\UpdateService\Updat00\Updat00_fra.mst</name><MD5>/msFwEYot9a2WZGdf2rsYg==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\UpdateService\Updat00\Updat00_jpn.mst</name><MD5>vcPf5oHdL1YtrDR/dQ2WYA==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\UpdateService\Updat00\Updat00_kor.mst</name><MD5>KT9jYmz/TpHOK3GeM3EnjQ==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\UpdateService\Updat00\UpdateService.msi</name><MD5>7+DxE2McYFrZOymPNS0N/Q==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\UpdateService\Updat00\UpdateService_mft.cab</name><MD5>mgNdKy7OnSK9NCqsGfVv2w==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\VC2008MSMs\VC2008MSMs\VC2008MSMs_x64.msi</name><MD5>EqsIC5s5F5E8/uW9AbhoNA==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\VC2008MSMs\VC2008MSMs\VC2008MSMs_x86.msi</name><MD5>u8T0cZKA1jR0GHGd1dbe+g==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\VC2008MSMs\VC2008MSMs\VC2008MSMs_x86_mft.cab</name><MD5>kMiyBCU/7caZIOrwqmyjug==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\VC2008MSMs\VC2008MSMs\x64.cab</name><MD5>W0WjEqJKXYJ0Wn8qLwHHYA==</MD5></FILE_ENTRY>
+<FILE_ENTRY><name>Products\VC2008MSMs\VC2008MSMs\x86.cab</name><MD5>JSaTB8FSM7IBKPmelmUpRA==</MD5></FILE_ENTRY>
+</FCIV>
